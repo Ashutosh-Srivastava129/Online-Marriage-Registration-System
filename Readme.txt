@@ -1,4 +1,4 @@
-How to run the Online Marriage Registration System using PHP and MySQL
+How to run the Online Marriage Registration System 
 
 1.Download the zip file
 
@@ -12,7 +12,7 @@ How to run the Online Marriage Registration System using PHP and MySQL
 
 6.Import omrsdb.sql file(given inside the zip package in SQL file folder)
 
-7.Run the script http://localhost/omrs
+7.Run the script http://localhost/Online Marriage Registration System /omrs
 
 
 User Credential
